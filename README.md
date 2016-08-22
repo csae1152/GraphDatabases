@@ -6,3 +6,5 @@ Currently i'm working with Neo4j in my spare time.
 Just download the Neo4j-installer and let it run.
 
 After starting the application you have an easy to use graphical interface in your browser.
+
+Within this browser window you can build your graph database model with an interactive cipher tool.
